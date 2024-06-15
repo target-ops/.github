@@ -4,7 +4,7 @@
 
 ## About Us
 
-**target-ops** is your trusted partner in DevOps excellence. We specialize in delivering tailored solutions that accelerate growth and streamline operations for funded startups and established enterprises. Our mission is to ensure seamless integration, optimized performance, and enhanced security across your IT infrastructure.
+**target-ops** is your trusted partner in DevOps excellence. We specialize in delivering tailored solutions that accelerate growth and streamline operations for funded startups and established enterprises. Our mission is to ensure seamless integration, optimized performance, and enhanced security across your Cloud/OnPrem infrastructure.
 
 ## Our Expertise
 
@@ -22,25 +22,25 @@
 
 ## Featured Projects
 
-### Automated CI/CD Pipeline
+### GitLab CI/CD Pipeline
 
-Developed a Jenkins pipeline that automates the build, test, and deployment processes for a sample application. Check out our [Jenkins Pipeline Example](https://github.com/target-ops/ci-cd-pipeline).
+Developed a comprehensive GitLab CI/CD pipeline that automates build, test, and deployment processes. Explore our [GitLab CI/CD Example](https://github.com/target-ops/gitlab-ci-cd-pipeline).
 
-### Kubernetes Cluster Deployment
+### GitHub Actions Workflow
 
-Set up and manage a Kubernetes cluster for deploying containerized applications. Learn more about our [Kubernetes Deployment](https://github.com/target-ops/k8s-cluster-setup).
+Implemented an advanced CI/CD workflow using GitHub Actions to streamline development and deployment. Check out our [GitHub Actions Workflow](https://github.com/target-ops/github-actions-workflow).
 
-### Serverless Application with AWS Lambda
+### Cloud Cost Optimization
 
-Developed and deployed a serverless function using AWS Lambda and API Gateway. Explore the details in our [AWS Lambda Project](https://github.com/target-ops/serverless-lambda).
+Designed and implemented strategies for optimizing cloud costs across AWS, Azure, and Google Cloud environments. Learn more about our [Cloud Cost Optimization](https://github.com/target-ops/cloud-cost-optimization).
 
-### Continuous Security Monitoring with OWASP ZAP
+### Terraform for Multi-Cloud IaC
 
-Integrated OWASP ZAP into our CI/CD pipeline to automate security testing of web applications. Discover our [OWASP ZAP Integration](https://github.com/target-ops/security-monitoring).
+Set up infrastructure as code using Terraform to manage resources across multiple cloud providers. Discover our [Terraform Multi-Cloud Setup](https://github.com/target-ops/terraform-multi-cloud).
 
-### ELK Stack for Infrastructure Monitoring
+### Kubernetes GitOps with ArgoCD
 
-Set up an ELK (Elasticsearch, Logstash, Kibana) stack for real-time infrastructure monitoring and log analysis. See our [ELK Stack Setup](https://github.com/target-ops/elk-stack-monitoring).
+Implemented a GitOps approach for Kubernetes using ArgoCD to manage cluster deployments efficiently. See our [Kubernetes GitOps Project](https://github.com/target-ops/kubernetes-gitops-argocd).
 
 ## Get Involved
 
@@ -54,10 +54,9 @@ We believe in the power of collaboration and open-source. Here’s how you can c
 
 Feel free to reach out if you have any questions or need further information:
 
+- **Website:** [www.target-ops.com](https://target-ops.github.io/)
 - **Email:** contact@target-ops.com
-- **Website:** [www.target-ops.com](http://www.target-ops.com)
-- **LinkedIn:** [target-ops on LinkedIn](https://www.linkedin.com/company/target-ops)
 
-## Join Us
+## Support Us
 
-We are always on the lookout for talented individuals passionate about DevOps. Check out our [careers page](http://www.target-ops.com/careers) to explore current openings and join our team!
+If you find our projects helpful, please consider supporting us by following our GitHub organization and starring our repositories. Your support helps us continue to innovate and share our work with the community.
