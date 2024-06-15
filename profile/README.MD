@@ -24,15 +24,18 @@
 
 ### GitLab CI/CD Pipeline
 
-Developed a comprehensive GitLab CI/CD pipeline that automates build, test, and deployment processes. Explore our [GitLab CI/CD Example](https://github.com/target-ops/gitlab-ci-cd-pipeline).
+Developed a comprehensive GitLab CI/CD pipeline that automates build, test, and deployment processes. 
+Explore our [GitLab CI/CD Example](https://github.com/target-ops/gitlab-ci-cd-pipeline).
 
 ### GitHub Actions Workflow
 
-Implemented an advanced CI/CD workflow using GitHub Actions to streamline development and deployment. Check out our [GitHub Actions Workflow](https://github.com/target-ops/github-actions-workflow).
+Implemented an advanced CI/CD workflow using GitHub Actions to streamline development and deployment. 
+Check out our [GitHub Actions Workflow](https://github.com/target-ops/github-actions-workflow).
 
 ### Cloud Cost Optimization
 
-Designed and implemented strategies for optimizing cloud costs across AWS, Azure, and Google Cloud environments. Learn more about our [Cloud Cost Optimization](https://github.com/target-ops/cloud-cost-optimization).
+Designed and implemented strategies for optimizing cloud costs across AWS, Azure, and Google Cloud environments. 
+Learn more about our [Cloud Cost Optimization](https://github.com/target-ops/cloud-cost-optimization).
 
 ### Terraform for Multi-Cloud IaC
 
