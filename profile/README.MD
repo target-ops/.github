@@ -2,6 +2,12 @@
 
 ![target-ops Logo](https://avatars.githubusercontent.com/u/171186748?s=200&v=4) <!-- Replace with your actual logo URL -->
 
+**Get connected**
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/target-ops/shared_invite/zt-2kxdr9djp-YoQSCoRzARa9psxO8aYoaQ)
+
+**Get supportive**
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/target_ops)
+
 ## About Us
 
 **target-ops** is your trusted partner in DevOps excellence. We specialize in delivering tailored solutions that accelerate growth and streamline operations for funded startups and established enterprises. Our mission is to ensure seamless integration, optimized performance, and enhanced security across your Cloud/OnPrem infrastructure.
@@ -60,7 +66,6 @@ Feel free to reach out if you have any questions or need further information:
 - **Website:** [www.target-ops.com](https://target-ops.github.io/)
 - **Email:** contact@target-ops.com
 
-[![Slack](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-48.png)](https://join.slack.com/t/target-ops/shared_invite/zt-2kxdr9djp-YoQSCoRzARa9psxO8aYoaQ)
 
 ## Support Us
 
