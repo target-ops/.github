@@ -59,7 +59,7 @@ Feel free to reach out if you have any questions or need further information:
 
 - **Website:** [www.target-ops.com](https://target-ops.github.io/)
 - **Email:** contact@target-ops.com
-
+[![Slack](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-48.png)](https://join.slack.com/t/target-ops/shared_invite/zt-2kxdr9djp-YoQSCoRzARa9psxO8aYoaQ)
 ## Support Us
 
 If you find our projects helpful, please consider supporting us by following our GitHub organization and starring our repositories. Your support helps us continue to innovate and share our work with the community.
