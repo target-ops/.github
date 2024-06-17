@@ -1,6 +1,6 @@
 # Welcome to target-ops! 🎯
 
-![target-ops Logo](https://ibb.co/mFXt5fS) <!-- Replace with your actual logo URL -->
+![target-ops Logo](https://avatars.githubusercontent.com/u/171186748?s=200&v=4) <!-- Replace with your actual logo URL -->
 
 ## About Us
 
