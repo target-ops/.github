@@ -1,12 +1,5 @@
-# Welcome to target-ops! 🎯
-
-![target-ops Logo](https://avatars.githubusercontent.com/u/171186748?s=200&v=4) <!-- Replace with your actual logo URL -->
-
-**Get connected**
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/target-ops/shared_invite/zt-2kxdr9djp-YoQSCoRzARa9psxO8aYoaQ)
-
-**Get supportive**
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/target_ops)
+[![target-ops](https://i.postimg.cc/QtxFS7BJ/Untitled-1.png)](https://postimg.cc/kVzMgBv2)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/target-ops/shared_invite/zt-2kxdr9djp-YoQSCoRzARa9psxO8aYoaQ)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/target-ops)[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/target-ops)[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/targetops)[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://dly.to/13bF3DMZs9K)[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/target_ops)
 
 ## About Us
 
@@ -65,7 +58,6 @@ Feel free to reach out if you have any questions or need further information:
 
 - **Website:** [target-ops.io](https://target-ops.io)
 - **Email:** [target@target-ops.io](mailto:target@target-ops.io)
-
 
 
 ## Support Us
