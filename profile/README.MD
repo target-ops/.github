@@ -63,8 +63,9 @@ We believe in the power of collaboration and open-source. Here’s how you can c
 
 Feel free to reach out if you have any questions or need further information:
 
-- **Website:** [www.target-ops.com](https://target-ops.github.io/)
-- **Email:** contact@target-ops.com
+- **Website:** [target-ops.io](https://target-ops.io)
+- **Email:** [target@target-ops.io](mailto:target@target-ops.io)
+
 
 
 ## Support Us
