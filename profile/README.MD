@@ -8,7 +8,7 @@
 <a href="https://dly.to/13bF3DMZs9K"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"></a>
 <a href="https://t.me/targetops"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.patreon.com/target_ops"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/target-ops?style=for-the-badge">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/target-ops?style=for-the-badge&logoColor=green&cacheSeconds=3600?style=for-the-badge">
 </p>
 
 
