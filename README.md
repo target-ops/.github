@@ -20,8 +20,7 @@
 
 Check out our awesome sponsors!
 
-<!-- sponsors -->
-<!-- sponsors -->
+<!-- sponsors --><!-- sponsors -->
 
 ## Our Expertise
 
