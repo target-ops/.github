@@ -11,7 +11,11 @@
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/target-ops?style=for-the-badge&logoColor=green&cacheSeconds=3600?style=for-the-badge">
 </p>
 
+## Sponsors
 
+These are our really cool sponsors!
+
+<!-- sponsors --><!-- sponsors -->
 
 ## About Us
 
