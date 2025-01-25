@@ -1,10 +1,3 @@
-## Sponsors
-
-These are our really cool sponsors!
-
-<!-- sponsors --><!-- sponsors -->
-## 
-
 <p align="center">
 <img src="https://i.postimg.cc/YSXdd1np/Untitled-2.png">
 </p>
@@ -22,6 +15,13 @@ These are our really cool sponsors!
 ## About Us
 
 **target-ops** is your trusted partner in DevOps excellence. We specialize in delivering tailored solutions that accelerate growth and streamline operations for funded startups and established enterprises. Our mission is to ensure seamless integration, optimized performance, and enhanced security across your Cloud/OnPrem infrastructure.
+
+## Sponsors ❤️
+
+Check out our awesome sponsors!
+
+<!-- sponsors -->
+<!-- sponsors -->
 
 ## Our Expertise
 
