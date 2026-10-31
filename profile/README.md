@@ -32,7 +32,7 @@
 - **Zero-downtime** legacy-to-cloud migrations
 - **10x** release velocity delivered
 
-<p align="center"><sub>Hands-on outcomes from production environments our engineers have built and run - including SOC 2 Type II compliance and terabyte-scale ETL pipelines. This is the experience behind Target Ops, not a promise of client results.</sub></p>
+<p align="center"><sub>These results come from production systems our engineers built and ran in past roles - including SOC 2 Type II-compliant platforms and terabyte-scale ETL pipelines. That is the experience we bring to every engagement.</sub></p>
 
 ## How We Work
 
