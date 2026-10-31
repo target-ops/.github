@@ -51,7 +51,7 @@
 - [**vsync**](https://github.com/target-ops/vsync) - VS Code release tracker
 - [**qrgen**](https://github.com/target-ops/qrgen) - instant QR code generator
 - [**vscode-pack**](https://github.com/target-ops/vscode-pack) - curated DevOps extension pack
-- [**All projects**](https://target-ops.io/open-source) - the full catalog on our site
+- [**All projects**](https://target-ops.io/open-source?utm_source=github&utm_medium=profile) - the full catalog on our site
 
 ## Technology
 
@@ -66,11 +66,11 @@
 
 <p align="center">
 <strong>Talk to the engineers who will architect and implement your infrastructure.</strong><br><br>
-<a href="https://target-ops.io">target-ops.io</a> ·
+<a href="https://target-ops.io?utm_source=github&utm_medium=profile">target-ops.io</a> ·
 <a href="mailto:target@target-ops.io">target@target-ops.io</a> ·
 <a href="https://www.linkedin.com/company/target-ops">LinkedIn</a> ·
 <a href="https://dev.to/target-ops">dev.to</a><br><br>
-<strong>📅 <a href="https://target-ops.io/contact">Book your free 30-minute consultation</a></strong>
+<strong>📅 <a href="https://target-ops.io/contact?utm_source=github&utm_medium=profile">Book your free 30-minute consultation</a></strong>
 </p>
 
 <p align="center"><sub>© 2026 Target Ops. All rights reserved.</sub></p>
