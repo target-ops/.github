@@ -1,5 +1,5 @@
 <p align="center">
-<img src="photos/banner.png" alt="Target Ops" width="100%">
+<img src="https://raw.githubusercontent.com/target-ops/.github/main/profile/photos/banner.png" alt="Target Ops" width="100%">
 </p>
 
 <h1 align="center">From Architecture to Production</h1>
